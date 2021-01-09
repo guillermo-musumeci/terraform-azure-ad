@@ -1,4 +1,4 @@
-#How to manage users and groups in Azure Active Directory (Azure AD) with Terraform
+# How to manage users and groups in Azure Active Directory (Azure AD) with Terraform
 
 * Creating an Azure AD Group --> create-azure-ad-group.tf 
 
